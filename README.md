@@ -1,3 +1,3 @@
-# ntf-template
+# ntf-buffer
 
-Template for my C++ projects
+Easy to use Buffer for reading/writing things
